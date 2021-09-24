@@ -540,7 +540,7 @@ bangla_meaning = {
     "manacle": "হাতকড়ি",
     "manifest": "স্পষ্ট প্রকাশ করা",
     "marginalize": "প্রান্তীয়",
-    "mawkish": "ঘৃণাজনক",
+    "mawkish": "বিরক্তিকর ভাবপ্রবণ",
     "mendacity": "অসত্যতা",
     "mercenary": "অর্থ বা পুরস্কারের বিনিময়ে কাজ করে এমন",
     "mercurial": "পরিবর্তনশীল",
