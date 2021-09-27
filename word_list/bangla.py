@@ -615,7 +615,7 @@ bangla_meaning = {
     "peccadillo": "সামান্য অপরাধ",
     "peculiar": "অদ্ভুত",
     "pedantic": "বিচারবুদ্ধিহীন পণ্ডিতসুলভ",
-    "pedestrian": "পথচারী",
+    "pedestrian": "পথচারী, বিরক্তিকর, ক্লান্তিকর",
     "pellucid": "স্বচছ",
     "penchant": "ঝোঁক",
     "pensive": "চিন্তাশীল",
