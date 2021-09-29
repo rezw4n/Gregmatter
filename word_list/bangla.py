@@ -638,7 +638,7 @@ bangla_meaning = {
     "pithy": "বলিষ্ঠ",
     "placate": "শান্ত করা",
     "placid": "শান্ত",
-    "plaintive": "দু",
+    "plaintive": "দদু:খপূর্ণ",
     "plastic": "প্লাস্টিক",
     "platitude": "মামুলি কথা",
     "pliant": "নমনীয়",
