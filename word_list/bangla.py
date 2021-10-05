@@ -809,7 +809,7 @@ bangla_meaning = {
     "surmount": "শীর্ষদেশে থাকা",
     "surreptitious": "গুপ্ত",
     "suspect": "সন্দেহভাজন",
-    "swindle": "প্রতারণ",
+    "swindle": "প্রতারণা",
     "synoptic": "সারসংক্ষেপ",
     "tacit": "নীরব",
     "taciturn": "অল্পভাষী",
