@@ -463,7 +463,7 @@ bangla_meaning = {
     "incendiary": "উত্তেজনা সৃষ্টিকারী",
     "incessant": "বিরামহীন, নিরবচ্ছিন্ন",
     "inchoate": "অপরিণত",
-    "incidental": "প্রাসঙ্গিক",
+    "incidental": "তুচ্ছ/গুরুত্বহীন ঘটনা, প্রাসঙ্গিক",
     "inclined": "প্রবণ",
     "incongruous": "বেমানান",
     "incontrovertible": "সুনিশ্চিত, নিঃসংশয়",
