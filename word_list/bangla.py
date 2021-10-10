@@ -806,7 +806,7 @@ bangla_meaning = {
     "supplant": "স্থানচু্যত করা",
     "supple": "নমনীয়",
     "supplicate": "অনুনয়-বিনয় করা",
-    "surmount": "শীর্ষদেশে থাকা",
+    "surmount": "পরাস্ত করা, অতিক্রম করা",
     "surreptitious": "গুপ্ত",
     "suspect": "সন্দেহভাজন",
     "swindle": "প্রতারণা",
