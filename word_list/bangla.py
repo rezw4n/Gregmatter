@@ -502,7 +502,7 @@ bangla_meaning = {
     "irascible": "বদমেজাজী",
     "ire": "ক্রোধ",
     "irksome": "বিরক্তিকর",
-    "ironclad": "লৌহবর্মভূষিত",
+    "ironclad": "নিশ্চিত",
     "irresolute": "অস্থিরচিত্ত",
     "irreverent": "শ্রদ্ধাহীন",
     "itinerant": "ভ্রমণকারী",
