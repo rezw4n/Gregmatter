@@ -43009,7 +43009,7 @@ meanings = {
                     "partOfSpeech": "adjective",
                     "definitions": [
                         {
-                            "definition": "covered or protected with iron.",
+                            "definition": "very certain and unlikely to be changed",
                             "synonyms": [],
                             "antonyms": [],
                         }
