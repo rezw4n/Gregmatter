@@ -43010,17 +43010,7 @@ meanings = {
                     "definitions": [
                         {
                             "definition": "very certain and unlikely to be changed",
-                            "synonyms": [],
-                            "antonyms": [],
-                        }
-                    ],
-                },
-                {
-                    "partOfSpeech": "noun",
-                    "definitions": [
-                        {
-                            "definition": "a 19th-century warship with armour plating.",
-                            "synonyms": [],
+                            "synonyms": ["immutable", "inflexible", "irrefutable", "strict"],
                             "antonyms": [],
                         }
                     ],
