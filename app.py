@@ -55,7 +55,9 @@ for i in meaning:
         st.markdown(f"**Definition:** {definition['definition'].capitalize()}")
         if len(definition["synonyms"]):
             st.markdown(f"**Synonyms:** {', '.join(definition['synonyms']).title()}")
-        st.markdown(f"**Example:** {str(definition.get('example')).capitalize()}")
+        example = str(definition.get("example")).capitalize()
+        if example != "None":
+            st.markdown(f"**Example:** {example}")
 
 
 corpus = st.expander(label="More Examples from NYT or other sources:")
